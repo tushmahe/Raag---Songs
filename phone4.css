@@ -1,0 +1,10 @@
+
+#myProgressBar{
+    width:auto;
+}
+.item{
+    width:auto;
+}
+.songName, .timestamp{
+    font-size: 0.5rem;
+}
