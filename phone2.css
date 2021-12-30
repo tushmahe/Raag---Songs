@@ -1,0 +1,12 @@
+
+#searchbar, #subscription, #login{
+    font-size: 0.6rem;
+}
+.photo img{
+    display: none;
+}
+.options ul{
+    height: 90px;
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
