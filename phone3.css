@@ -18,7 +18,11 @@ nav ul li, #searchbar, #subscription, #login{
     display:none;
 }
 .item{
-    width: 20em;
+    width: 22em;
+}
+.main{
+    padding: 34px 4px;
+    width: 90%;
 }
 .songName, .timestamp{
     font-size: 0.8rem;
