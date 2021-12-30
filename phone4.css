@@ -3,8 +3,15 @@
     width:auto;
 }
 .item{
-    width:auto;
+    width:17em;
 }
 .songName, .timestamp{
-    font-size: 0.5rem;
+    font-size: 0.7rem;
+}
+#masterSongName, #time, #ftime{
+    font-size: 0.7rem;
+}
+.songInfo img{
+    width: 70px;
+    height: 20px;
 }
